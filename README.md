@@ -13,3 +13,23 @@
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
+<div>
+    <img src="[https://github.com/user-attachments/assets/d9d1c440-2aab-407b-9386-1a70e5a61895]" 
+    <img width="700" height="300" alt="terminal" />
+    
+ </div>
+
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=java,laravel,github,git,mysql,py,js,nodejs,html,css,bootstrap,php,eclipse,figma,vscode)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+
+  
+</div>
